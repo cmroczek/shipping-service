@@ -1,5 +1,5 @@
 applications:
-  name: shipping-service-js-cmroczek
+- name: shipping-service-js-cmroczek
   memory: 128M
   instances: 1
   env:
